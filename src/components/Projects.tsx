@@ -7,7 +7,7 @@ const Projects = () => {
       description:
         "AI-based food recognition system using YOLOv8 for identifying food items from images. Includes React frontend with secure backend authentication for meal tracking.",
       tags: ["YOLOv8", "React", "AI/ML", "Backend Auth", "Food Recognition"],
-      image: "src/components/images/nutritrack.png",
+      image: "/images/nutritrack.png",
       githubUrl: "https://github.com/sahiltopale/nutritrack",
       liveUrl: "#",
     },
@@ -16,7 +16,7 @@ const Projects = () => {
       description:
         "Real-time chat application with online user filtering, image sharing capabilities, and responsive UI design for seamless communication.",
       tags: ["React", "Real-time", "WebSockets", "Node.js", "MongoDB"],
-      image: "src/components/images/chatty.png",
+      image: "/images/chatty.png",
       githubUrl: "https://github.com/sahiltopale/fullstackrealtime-chatapp",
       liveUrl: "#",
     },
@@ -25,7 +25,7 @@ const Projects = () => {
       description:
         "IoT-Based Smart Shelf: An intelligent system that monitors inventory levels and expiry using sensors and updates data in real time for efficient stock management.",
       tags: ["React", "Node.js", "Thingspeak", "Hardware Components"],
-      image: "src/components/images/IOTsmartshelf.png",
+      image: "/images/IOTsmartshelf.png",
       githubUrl: "https://github.com/sahiltopale/IOT-smartshelf",
       liveUrl: "#",
     },
@@ -34,7 +34,7 @@ const Projects = () => {
       description:
         "Python-based system to manage and track staff leave records with efficient database management and reporting capabilities.",
       tags: ["Python", "Database", "System Design", "Management"],
-      image: "src/components/images/staffleavemanagement.png",
+      image: "/images/staffleavemanagement.png",
       githubUrl: "https://github.com/sahiltopale",
       liveUrl: "#",
     },
@@ -43,7 +43,7 @@ const Projects = () => {
       description:
         "Mini buy-sell platform built and coordinated as a team project. Features product listing, search, and transaction management.",
       tags: ["React", "Node.js", "MongoDB", "E-commerce"],
-      image: "src/components/images/rentall.png",
+      image: "/images/rentall.png",
       githubUrl: "https://github.com/sahiltopale/rentall",
       liveUrl: "#",
     },

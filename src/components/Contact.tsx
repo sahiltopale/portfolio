@@ -155,7 +155,7 @@ const Contact = () => {
                   <Instagram className="w-6 h-6 text-pink-600 dark:text-pink-400" />
                 </a>
                 <a
-                  href="https://portfolio.example.com"
+                  href="https://portfolio-xi-steel-48.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
