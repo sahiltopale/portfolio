@@ -3,6 +3,22 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
+      title: "RuFAT",
+      description:
+        "AI-powered health assessment tool that predicts obesity risk based on user lifestyle data. Features a Python-based inference engine, interactive React dashboard, and personalized actionable health recommendations.",
+      tags: [
+        "React",
+        "TypeScript",
+        "FastAPI",
+        "MongoDB",
+        "HealthTech",
+        "AI Prediction",
+      ],
+      image: "/images/rufat.jpg",
+      githubUrl: "https://github.com/sahiltopale/RuFAT",
+      liveUrl: "#",
+    },
+    {
       title: "NutriTrack",
       description:
         "AI-based food recognition system using YOLOv8 for identifying food items from images. Includes React frontend with secure backend authentication for meal tracking.",
