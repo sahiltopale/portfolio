@@ -70,8 +70,8 @@ const About = () => {
                   <br />
                   Entrance Exam - JEE Mains 2025 90%ile (AIR - 91,000)
                   <br />
-                  UG - St. Francis Institute of Technology (2022-2026) Current
-                  CGPA: 8.68
+                  UG - St. Francis Institute of Technology (IT) (2022-2026)
+                  Current CGPA: 8.68
                 </p>
               </div>
             </div>
@@ -85,7 +85,7 @@ const About = () => {
                   Location
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400">
-                  Mumbai, Maharashtra | Available for Remote Work
+                  Mumbai, Maharashtra, India
                 </p>
               </div>
             </div>
