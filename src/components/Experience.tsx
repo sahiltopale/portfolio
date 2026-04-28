@@ -3,6 +3,20 @@ import { Briefcase, Calendar } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
+      title: "Full Stack Developer",
+      company: "Springer Capital",
+      location: "Remote",
+      period: "Dec 2025 - Mar 2026",
+      description:
+        "Worked as a Full Stack Engineer Intern at Springer Capital developing responsive web applications using React and backend API integration while improving UI performance and functionality.",
+      achievements: [
+        "Developed responsive frontend components using React",
+        "Integrated backend APIs for dynamic web applications",
+        "Improved UI performance and cross device responsiveness",
+        "Collaborated in agile workflows for feature delivery",
+      ],
+    },
+    {
       title: "Virtual Intern (AI/ML)",
       company: "Tata - AI/ML Job Simulation",
       location: "Remote",

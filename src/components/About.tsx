@@ -41,11 +41,15 @@ const About = () => {
                   My Work
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400">
-                  Recently completed virtual internships with Deloitte and Tata.
-                  At Deloitte, I developed Python-based solutions for data
-                  standardization. At Tata, I worked on AI/ML for fairness and
-                  explainability in credit risk modeling. I have also worked on
-                  multiple mini-projects across different semesters.
+                  I also interned at Springer Capital as a Full Stack Engineer,
+                  where I worked on building responsive web applications,
+                  developing frontend components using React, and integrating
+                  them with backend APIs. Recently completed virtual internships
+                  with Deloitte and Tata. At Deloitte, I developed Python-based
+                  solutions for data standardization. At Tata, I worked on AI/ML
+                  for fairness and explainability in credit risk modeling. I
+                  have also worked on multiple mini-projects across different
+                  semesters.
                 </p>
               </div>
             </div>

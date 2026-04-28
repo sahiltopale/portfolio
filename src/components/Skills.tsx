@@ -7,6 +7,8 @@ const Skills = () => {
       icon: Layout,
       color: "blue",
       skills: [
+        "Full Stack Development",
+        "MERN Stack",
         "React",
         "TypeScript",
         "Tailwind CSS",
@@ -19,13 +21,13 @@ const Skills = () => {
       title: "Backend Development",
       icon: Server,
       color: "green",
-      skills: ["Node.js", "Express.js", "Python", "REST APIs"],
+      skills: ["Node.js", "Express.js", "MongoDB", "Python", "REST APIs"],
     },
     {
       title: "Database",
       icon: Database,
       color: "purple",
-      skills: ["MongoDB", "MySQL"],
+      skills: ["MongoDB", "MySQL", "Supabase"],
     },
     {
       title: "AI/ML",

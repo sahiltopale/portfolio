@@ -3,6 +3,15 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
+      title: "BetterCall",
+      description:
+        "BetterCall is a domain-specific legal intelligence platform designed to support Indian legal professionals withfaster research, statute verification, case analysis, and document drafting. ",
+      tags: ["React", "RAG", "Pinecone", "Node.js"],
+      image: "/images/BetterCall.png",
+      githubUrl: "https://github.com/sahiltopale/BetterCall",
+      liveUrl: "https://legal-lilac-sigma.vercel.app/",
+    },
+    {
       title: "RuFAT",
       description:
         "AI-powered health assessment tool that predicts obesity risk based on user lifestyle data. Features a Python-based inference engine, interactive React dashboard, and personalized actionable health recommendations.",
@@ -43,15 +52,6 @@ const Projects = () => {
       tags: ["React", "Node.js", "Thingspeak", "Hardware Components"],
       image: "/images/IOTsmartshelf.png",
       githubUrl: "https://github.com/sahiltopale/IOT-smartshelf",
-      liveUrl: "#",
-    },
-    {
-      title: "Staff Leave Management System",
-      description:
-        "Python-based system to manage and track staff leave records with efficient database management and reporting capabilities.",
-      tags: ["Python", "Database", "System Design", "Management"],
-      image: "/images/staffleavemanagement.png",
-      githubUrl: "https://github.com/sahiltopale",
       liveUrl: "#",
     },
     {
