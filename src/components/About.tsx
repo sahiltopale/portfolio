@@ -71,7 +71,7 @@ const About = () => {
                   Entrance Exam - JEE Mains 2025 90%ile (AIR - 91,000)
                   <br />
                   UG - St. Francis Institute of Technology (2022-2026) Current
-                  CGPA: 7.8
+                  CGPA: 8.68
                 </p>
               </div>
             </div>
