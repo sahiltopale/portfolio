@@ -37,6 +37,15 @@ const Projects = () => {
       liveUrl: "#",
     },
     {
+      title: "AuthenTix",
+      description:
+        "NFT Based Event Ticketing System for Safe, smart, secured event ticketing using Blockchain Technology.",
+      tags: ["Blockchain", "RemixIDE", "Metamask", "React", "Node.js"],
+      image: "/images/AuthenTix.png",
+      githubUrl: "https://github.com/sahiltopale/AuthenTix",
+      liveUrl: "https://secure-ticket-pro.vercel.app/",
+    },
+    {
       title: "Chatty",
       description:
         "Real-time chat application with online user filtering, image sharing capabilities, and responsive UI design for seamless communication.",
@@ -52,15 +61,6 @@ const Projects = () => {
       tags: ["React", "Node.js", "Thingspeak", "Hardware Components"],
       image: "/images/IOTsmartshelf.png",
       githubUrl: "https://github.com/sahiltopale/IOT-smartshelf",
-      liveUrl: "#",
-    },
-    {
-      title: "Rentall",
-      description:
-        "Mini buy-sell platform built and coordinated as a team project. Features product listing, search, and transaction management.",
-      tags: ["React", "Node.js", "MongoDB", "E-commerce"],
-      image: "/images/rentall.png",
-      githubUrl: "https://github.com/sahiltopale/rentall",
       liveUrl: "#",
     },
   ];
