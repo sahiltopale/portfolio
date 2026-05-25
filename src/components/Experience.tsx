@@ -17,32 +17,6 @@ const Experience = () => {
       ],
     },
     {
-      title: "Virtual Intern (AI/ML)",
-      company: "Tata - AI/ML Job Simulation",
-      location: "Remote",
-      period: "Sep 2025",
-      description:
-        "Worked on AI/ML job simulation focused on fairness and explainability in credit risk modeling. Applied techniques like demographic parity and evaluated ethical deployment metrics.",
-      achievements: [
-        "Applied fairness techniques in machine learning models",
-        "Evaluated ethical deployment metrics for credit risk modeling",
-        "Analyzed demographic parity and bias in AI systems",
-      ],
-    },
-    {
-      title: "Virtual Intern (Python/Data)",
-      company: "Deloitte",
-      location: "Remote",
-      period: "Sep 2025",
-      description:
-        "Developed a Python-based solution to standardize JSON telemetry data into a unified format, ensuring accuracy and compatibility across datasets.",
-      achievements: [
-        "Developed Python-based data standardization solution",
-        "Ensured accuracy and compatibility across datasets",
-        "Standardized JSON telemetry data formats",
-      ],
-    },
-    {
       title: "Multimedia Executive",
       company: "CSI",
       location: "Mumbai",
